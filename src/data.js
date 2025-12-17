@@ -1,7 +1,7 @@
 export const certifications = [
   {
     id: 0,
-    name: "CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas",
+    name: "CCNA: Switching, Routing, and Wireless Essentials",
     institution: "CISCO",
     url: "www.linkedin.com/in/alexei-torres/details/certifications/",
   },
