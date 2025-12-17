@@ -1,18 +1,24 @@
 export const certifications = [
   {
     id: 0,
-    name: "JavaScript Algorithms and Data Structures",
-    institution: "FreeCodeCamp",
-    url: "https://www.freecodecamp.org/certification/Alexei_Torres/javascript-algorithms-and-data-structures",
+    name: "CCNA: Fundamentos de Conmutación, Enrutamiento y Redes Inalámbricas",
+    institution: "CISCO",
+    url: "www.linkedin.com/in/alexei-torres/details/certifications/",
   },
   {
     id: 1,
-    name: "Front End Development Libraries",
+    name: "Legacy JavaScript Algorithms and Data Structures V7",
     institution: "FreeCodeCamp",
-    url: "https://www.freecodecamp.org/certification/Alexei_Torres/front-end-development-libraries",
+    url: "https://www.freecodecamp.org/certification/alexei_torres/javascript-algorithms-and-data-structures",
   },
   {
     id: 2,
+    name: "Front End Development Libraries V8",
+    institution: "FreeCodeCamp",
+    url: "https://www.freecodecamp.org/certification/alexei_torres/front-end-development-libraries",
+  },
+  {
+    id: 3,
     name: "Modern JavaScript",
     institution: "Udemy",
     url: "https://www.udemy.com/certificate/UC-d40ae4bb-bac0-44c5-8a87-77f3c1c93c44/",
