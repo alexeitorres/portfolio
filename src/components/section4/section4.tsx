@@ -58,24 +58,15 @@ export default function Section4() {
           <div className="flex flex-col items-center w-[90%] sm:w-[80%] md:w-[70%] lg:w-[60%]">
             <div className="flex flex-col gap-2">
               <h2 className="text-[40px]">About me</h2>
-              <p>Tengo 25 años y comencé a mediados del 2022.</p>
+              <p>Tengo 26 años y comencé a mediados del 2022.</p>
               <p>
-                Mi especialización está orientada al frontend, sin embargo,
-                trabajo el backend de igual manera, con Django y Python o Node.js y Express.js.
+                Me adapto a los equipos y metodologías de trabajo.
               </p>
-              <p>
-                Lo que yo quiero es ser parte de un proyecto que tenga un
-                impacto significativo en la industria. Me gustaría decir que yo
-                apoyé a levantar OpenAI, por ejemplo.
-              </p>
-              <p>Eres reclutador?, este es mi teléfono: 33-18-67-73-98.</p>
+              <p>Lo que yo más deseo es ser parte de proyectos que tengan un impacto significativo en la industria o en las empresas donde se desarrollan.</p>
+              <p>Últimamente me he orientado más hacia la infraestructura de red, y lo pienso combinar con mis conocimientos de software codificando herramientas de terminal. En un futuro, y enfocado más hacia las redes, me especializaré en el área de ciberseguridad y hacking ético, y de hecho ya estoy en camino.</p>
+              <p className="text-lg font-medium">Cada proyecto, en su respectiva sección, lista las tecnologías utilizadas; sin embargo, en base a mi experiencia laboral tengo facilidad de adaptación (por ejemplo, necesité 2 semanas para aprender a usar Angular en su versión 16, un framework muy pesado de frontend).</p>
               <p className="text-lg font-medium">
-                JavaScript, TypeScript, React.js, Next.js, Tailwindcss, Redux,
-                Axios, Figma, Express.js, Python, Django, Django REST Framework.
-              </p>
-              <p className="text-lg font-medium">
-                Responsable, Social, Determinado, Me gusta conocer a las
-                personas y hacer amigos.
+                Me gusta conocer a las personas y hacer amigos.
               </p>
             </div>
           </div>
