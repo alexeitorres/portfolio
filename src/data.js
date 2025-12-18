@@ -3,7 +3,7 @@ export const certifications = [
     id: 0,
     name: "CCNA: Switching, Routing, and Wireless Essentials",
     institution: "CISCO",
-    url: "www.linkedin.com/in/alexei-torres/details/certifications/",
+    url: "https://www.linkedin.com/in/alexei-torres/details/certifications/",
   },
   {
     id: 1,
